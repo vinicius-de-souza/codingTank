@@ -1,0 +1,17 @@
+C:\Users\vinib\source\repos\TestMenu\TestMenu\bin\Debug\net6.0\TestMenu.exe
+C:\Users\vinib\source\repos\TestMenu\TestMenu\bin\Debug\net6.0\TestMenu.deps.json
+C:\Users\vinib\source\repos\TestMenu\TestMenu\bin\Debug\net6.0\TestMenu.runtimeconfig.json
+C:\Users\vinib\source\repos\TestMenu\TestMenu\bin\Debug\net6.0\TestMenu.dll
+C:\Users\vinib\source\repos\TestMenu\TestMenu\bin\Debug\net6.0\TestMenu.pdb
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.AssemblyInfoInputs.cache
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.AssemblyInfo.cs
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.csproj.CoreCompileInputs.cache
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.dll
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\refint\TestMenu.dll
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.pdb
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.genruntimeconfig.cache
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\ref\TestMenu.dll
+C:\Users\vinib\source\repos\TestMenu\TestMenu\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.csproj.AssemblyReference.cache
+C:\Users\vinib\source\repos\TestMenu\TestMenu\obj\Debug\net6.0\TestMenu.csproj.CopyComplete

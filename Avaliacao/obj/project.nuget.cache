@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nc05rbCGTKzIIz6ZvEPaxDqLN9gvTVHL9sIDplSJZuAasw4l69h2mzTrrO0AU+/msV+7K/Gxhztvy/We7lvM4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinib\\OneDrive\\Desktop\\codingTank\\Avaliacao\\Avaliacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinib\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vinib\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vinib\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
